@@ -1,5 +1,7 @@
 ## Raw Accel Kullanım Kılavuzu
 
+![LegacyAfter RawAccel](https://i.ibb.co/RhtT8qL/Screenshot-20240930-014017.jpg)
+
 ## Website
 Websitemiz, sade ve modern bir tasarıma sahip. Yazı tipi olarak Arial seçimi, içeriklerin rahat okunmasını sağlıyor. Renk paleti, koyu mavi başlıklar ve beyaz arka planla profesyonel bir görünüm oluşturuyor. Navigasyon menüsü basit ama işlevsel, kolayca erişilebilir bağlantılar içeriyor.
 
@@ -70,3 +72,5 @@ Raw Accel, çeşitli ayar seçenekleri sunar. İşte örnek ayarlar:
 Raw Accel ile ilgili daha fazla bilgi almak için [SSS bölümüne](FAQ.md) göz atabilirsiniz. Eğer bu rehberde bulamadığınız konular varsa, topluluk forumlarında ya da GitHub sayfasında yardım arayabilirsiniz.
 
 © 2024 Legacy After Raw Accel Ayarları. Tüm hakları saklıdır.
+
+![LegacyAfter](https://i.ibb.co/V21bMH3/images-removebg-preview-1.png)
