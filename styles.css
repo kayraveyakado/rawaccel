@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background: #35424a;
+    background: #ca1c1d;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
@@ -54,7 +54,7 @@ section {
 footer {
     text-align: center;
     padding: 15px 0;
-    background: #35424a;
+    background: #ca1c1d;
     color: #ffffff;
     position: relative;
     bottom: 0;
@@ -62,8 +62,8 @@ footer {
 }
 
 footer .logocr {
-    width: 10px;
-    margin-bottom: 10px;
+    width: 35px;
+    margin-bottom: 35px;
 }
 
 ul {
