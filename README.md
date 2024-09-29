@@ -4,15 +4,18 @@
 
 ## Website
 Websitemiz, sade ve modern bir tasarıma sahip. Yazı tipi olarak Arial seçimi, içeriklerin rahat okunmasını sağlıyor. Renk paleti, koyu mavi başlıklar ve beyaz arka planla profesyonel bir görünüm oluşturuyor. Navigasyon menüsü basit ama işlevsel, kolayca erişilebilir bağlantılar içeriyor.
-![LegacyAfter RawAccel Web](https://i.ibb.co/fHgtM9N/Screenshot-20240930-023430.jpg)
 
 Bölümler arasındaki boşluklar ve kutu gölgeleri, düzenli ve şık bir görsellik sunuyor. Her bölümün belirgin olması, kullanıcıların içerikte kaybolmadan rahatça gezmesine olanak tanıyor. Footer ise sitenizin genel temasına uygun, temiz bir kapanış sağlıyor.
 
 Tasarım, hem kullanıcı deneyimi açısından rahat, hem de estetik olarak etkileyici. [Buraya Tıklayarak](https://kayraveyakado.github.io/rawaccel) Websitemize Ulaşabilirsin.
 
+![LegacyAfter RawAccel Web](https://i.ibb.co/fHgtM9N/Screenshot-20240930-023430.jpg)
+
 ### Giriş
 
 Bu rehber, Raw Accel adlı bir fare ivmelenme sürücüsünü ve bu sürücünün sunduğu özellikleri nasıl kullanabileceğinizi açıklamaktadır. Raw Accel, Windows platformunda fare hareketlerine dinamik ivmelenme eklemenizi sağlayan bir araçtır. Özellikle oyunlarda, fare hareketlerinizi kişiselleştirerek performansınızı artırmak isteyen kullanıcılar için tasarlanmıştır. Bu rehberde, Raw Accel'i nasıl indirip kuracağınızı, temel ayarları ve fare ivmelenme stillerini nasıl yöneteceğinizi bulabilirsiniz.
+
+![RawAccel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4YxS-UDE0T8SBwC2BZN3bFEmUt7hxBP0FTi27fRb80VOrt5ABvyTbEQQ&s=10)
 
 ### İndirme ve Kurulum
 
