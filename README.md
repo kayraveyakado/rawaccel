@@ -4,6 +4,7 @@
 
 ## Website
 Websitemiz, sade ve modern bir tasarıma sahip. Yazı tipi olarak Arial seçimi, içeriklerin rahat okunmasını sağlıyor. Renk paleti, koyu mavi başlıklar ve beyaz arka planla profesyonel bir görünüm oluşturuyor. Navigasyon menüsü basit ama işlevsel, kolayca erişilebilir bağlantılar içeriyor.
+![LegacyAfter RawAccel Web](https://i.ibb.co/fHgtM9N/Screenshot-20240930-023430.jpg)
 
 Bölümler arasındaki boşluklar ve kutu gölgeleri, düzenli ve şık bir görsellik sunuyor. Her bölümün belirgin olması, kullanıcıların içerikte kaybolmadan rahatça gezmesine olanak tanıyor. Footer ise sitenizin genel temasına uygun, temiz bir kapanış sağlıyor.
 
