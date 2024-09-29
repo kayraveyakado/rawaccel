@@ -19,10 +19,6 @@ header .logo {
     margin-bottom: 10px;
 }
 
-header .logocr {
-    width: 4px;
-    margin-bottom: 4px;
-}
 
 nav ul {
     list-style: none;
@@ -63,6 +59,11 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
+}
+
+footer .logocr {
+    width: 4px;
+    margin-bottom: 4px;
 }
 
 ul {
